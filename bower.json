@@ -1,0 +1,15 @@
+{
+  "name": "AngularTest",
+  "version": "0.0.1",
+  "description": "Ejemplo de desarrollo de aplicación web con JavaScript",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.4.9",
+    "angular-route": "^1.4.9",
+    "angular-resource": "^1.4.9",
+    "font-awesome": "fontawesome#^4.5.0",
+    "angular-animate": "^1.4.9",
+    "angular-strap": "^2.3.7",
+    "angular-motion": "^0.4.3"
+  }
+}
