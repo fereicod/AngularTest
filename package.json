@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Ejemplo de desarrollo de aplicación web con JavaScript",
   "bugs": {
-    "url": "https://github.com/fernando_ei/AngularTest/issues",
+    "url": "https://github.com/fernandoei/AngularTest/issues",
     "email": "mferna.92@gmail.com"
   },
   "license": "UNLICENSED",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fernando_ei/AngularTest"
+    "url": "https://github.com/fernandoei/AngularTest"
   },
   "dependencies": {},
   "devDependencies": {
