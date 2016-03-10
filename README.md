@@ -7,6 +7,8 @@ Pequeña app utilizando:
 * Gulp
 * Stylus
 * Jshint
+* Bootstrap
+* Stylus
 
 
 
